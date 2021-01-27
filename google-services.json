@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "211604693461",
+    "project_id": "mapa-277604",
+    "storage_bucket": "mapa-277604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211604693461:android:2e3a1f59aa7ffc15509d5c",
+        "android_client_info": {
+          "package_name": "com.andreocunha.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211604693461-b43f24bjvbje67svc7gh0qd1hdfkkk01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmS_kxaEe_uTiVDI6tn6QLwq2itSEVv9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211604693461-b43f24bjvbje67svc7gh0qd1hdfkkk01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
